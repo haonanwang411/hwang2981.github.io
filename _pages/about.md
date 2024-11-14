@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Master student | Computer Science,Whiting Engineering of Science,Johns Hopkins University
 
 profile:
   align: right
