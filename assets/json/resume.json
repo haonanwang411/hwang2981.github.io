@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haonan Wang",
+    "label": "Master student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hwang298@gmail.com",
+    "phone": "(443)854 0002",
+    "url": "https://hwang298.github.io/",
+    "summary": "Master student at Johns Hopkins University",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "3400 N Charles St ",
+      "postalCode": "MD 21218",
+      "city": " Baltimore",
       "countryCode": "US",
-      "region": "California"
+      "region": "Maryland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
+        "network": "X",
+        "username": "@",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
