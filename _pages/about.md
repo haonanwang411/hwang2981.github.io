@@ -22,4 +22,3 @@ I am a second-year Master student at [Johns Hopkins University](https://www.jhu.
 Prior to JHU, I received my B.S. degree in Information and Computer Science, and Mathematics from the [Liaoning Technology University](https://en.lntu.edu.cn/).
 
 
-During my undergrad study, I spent two years at [Knowledge Computation Group@HKUST](https://github.com/HKUST-KnowComp), where I was advised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I was also a research intern at CLSP, JHU supervised by Benjamin Van Durme.
