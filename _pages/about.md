@@ -6,7 +6,7 @@ subtitle: Master student | Computer Science,Whiting Engineering of Science,Johns
 
 profile:
   align: right
-  image: hhaonanwang.jpg
+  image: haonanwang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Malone Hallr</p>
